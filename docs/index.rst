@@ -5,12 +5,16 @@
 
 Welcome to geometry_analysis's documentation!
 =========================================================
+this mmodule has a molecule object and provides some manipulation.
+Available techniques:
+ -distance
+ -*bonds*
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   something
 
 Indices and tables
 ==================
