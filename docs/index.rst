@@ -15,6 +15,7 @@ Available techniques:
    :caption: Contents:
 
    something
+   API
 
 Indices and tables
 ==================
